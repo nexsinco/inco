@@ -1,0 +1,23 @@
+{
+  "config": {
+    "personality": "INC0G",
+    "provider_rotation": [
+      "groq",
+      "openrouter",
+      "together"
+    ]
+  },
+  "memory": {
+    "channels": {},
+    "global": [],
+    "guilds": {},
+    "tasks": {},
+    "users": {}
+  },
+  "metrics": {
+    "commands": 0,
+    "errors": 0,
+    "providers": {},
+    "tool_usage": {}
+  }
+}
